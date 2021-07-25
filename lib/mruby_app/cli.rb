@@ -1,4 +1,4 @@
-module Mapp
+module MrubyApp
   module CLI
     def self.start
       has_mundler = File.file?(File.join(Dir.pwd, "Mundlefile"))

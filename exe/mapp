@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
 
-require "mapp"
+require "mruby_app"
 
-Mapp::CLI.start
+MrubyApp::CLI.start
